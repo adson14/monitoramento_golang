@@ -1,0 +1,77 @@
+https://g1.globo.com/- online: truenline: trueene: truesite-falso- online: falsehttp://4alltests.com.br/- online: truehttps://gestaoclick.com- online: truehttps://www.tecmundo.com.br/- online: truehttps://random-status-code.herokuapp.com/- online: falsehttps://go.dev/doc/articles/wiki/- online: truehttps://www.olx.com.br/- online: truehttps://www.mercadolivre.com.br/- online: truehttps://g1.globo.com/- online: truesite-falso- online: false
+http://4alltests.com.br/- online: true
+https://gestaoclick.com- online: true
+https://www.tecmundo.com.br/- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://go.dev/doc/articles/wiki/- online: true
+https://www.olx.com.br/- online: true
+https://www.mercadolivre.com.br/- online: true
+https://g1.globo.com/- online: true
+http://4alltests.com.br/- online: true
+https://gestaoclick.com- online: true
+https://www.tecmundo.com.br/- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://go.dev/doc/articles/wiki/- online: true
+https://www.olx.com.br/- online: true
+https://www.mercadolivre.com.br/- online: true
+https://g1.globo.com/- online: true
+http://4alltests.com.br/- online: true
+https://gestaoclick.com- online: true
+https://www.tecmundo.com.br/- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://go.dev/doc/articles/wiki/- online: true
+https://www.olx.com.br/- online: true
+https://www.mercadolivre.com.br/- online: true
+https://g1.globo.com/- online: true
+http://4alltests.com.br/- online: true
+https://gestaoclick.com- online: true
+https://www.tecmundo.com.br/- online: true
+https://random-status-code.herokuapp.com/- online: false
+https://go.dev/doc/articles/wiki/- online: true
+https://www.olx.com.br/- online: true
+https://www.mercadolivre.com.br/- online: true
+https://g1.globo.com/- online: true
+http://4alltests.com.br/- online: true
+https://gestaoclick.com- online: true
+https://www.tecmundo.com.br/- online: true
+https://random-status-code.herokuapp.com/- online: true
+https://go.dev/doc/articles/wiki/- online: true
+https://www.olx.com.br/- online: true
+https://www.mercadolivre.com.br/- online: true
+https://g1.globo.com/- online: true
+28/22/2022 22:00:29-site-falso- online: false
+28/22/2022 22:00:30-http://4alltests.com.br/- online: true
+28/22/2022 22:00:30-https://gestaoclick.com- online: true
+28/22/2022 22:00:30-https://www.tecmundo.com.br/- online: true
+28/22/2022 22:00:31-https://random-status-code.herokuapp.com/- online: true
+28/22/2022 22:00:31-https://go.dev/doc/articles/wiki/- online: true
+28/22/2022 22:00:32-https://www.olx.com.br/- online: true
+28/22/2022 22:00:32-https://www.mercadolivre.com.br/- online: true
+28/22/2022 22:00:32-https://g1.globo.com/- online: true
+28/22/2022 22:00:43-http://4alltests.com.br/- online: true
+28/22/2022 22:00:43-https://gestaoclick.com- online: true
+28/22/2022 22:00:43-https://www.tecmundo.com.br/- online: true
+28/22/2022 22:00:43-https://random-status-code.herokuapp.com/- online: true
+28/22/2022 22:00:43-https://go.dev/doc/articles/wiki/- online: true
+28/22/2022 22:00:44-https://www.olx.com.br/- online: true
+28/22/2022 22:00:44-https://www.mercadolivre.com.br/- online: true
+28/22/2022 22:00:44-https://g1.globo.com/- online: true
+28/22/2022 22:00:55-site-falso- online: false
+28/22/2022 22:00:37-site-falso- online: false
+28/22/2022 22:00:03-site-falso- online: false
+28/22/2022 22:00:04-http://4alltests.com.br/- online: true
+28/22/2022 22:00:04-https://gestaoclick.com- online: true
+28/22/2022 22:00:04-https://www.tecmundo.com.br/- online: true
+28/22/2022 22:00:05-https://random-status-code.herokuapp.com/- online: false
+28/22/2022 22:00:05-https://go.dev/doc/articles/wiki/- online: true
+28/22/2022 22:00:06-https://www.olx.com.br/- online: true
+28/22/2022 22:00:06-https://www.mercadolivre.com.br/- online: true
+28/22/2022 22:00:06-https://g1.globo.com/- online: true
+28/22/2022 22:00:52-http://4alltests.com.br/- online: true
+28/22/2022 22:00:52-https://gestaoclick.com- online: true
+28/22/2022 22:00:53-https://www.tecmundo.com.br/- online: true
+28/22/2022 22:00:53-https://random-status-code.herokuapp.com/- online: false
+28/22/2022 22:00:54-https://go.dev/doc/articles/wiki/- online: true
+28/22/2022 22:00:54-https://www.olx.com.br/- online: true
+28/22/2022 22:00:55-https://www.mercadolivre.com.br/- online: true
+28/22/2022 22:00:55-https://g1.globo.com/- online: true
